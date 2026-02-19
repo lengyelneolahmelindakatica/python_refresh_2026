@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="521acce2-11d5-4989-9b01-68a6ccc190b3" name="Changes" comment="" />
+    <list default="true" id="521acce2-11d5-4989-9b01-68a6ccc190b3" name="Changes" comment="first step">
+      <change afterPath="$PROJECT_DIR$/2. day/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. day/string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. day/1 day.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. day/1 day.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lengyelneolahmelindakatica"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lengyelneolahmelindakatica/python_refresh_2026.git&quot;,
+    &quot;accountId&quot;: &quot;4797e266-105b-44da-a0aa-af88d0f48766&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="39q9U98MCZBFg4QSgw0FyNCpLOi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,7 +48,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1 day.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.string.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -40,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1771412748061</updated>
     </task>
+    <task id="LOCAL-00001" summary="first step">
+      <option name="closed" value="true" />
+      <created>1771412956511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771412956511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first step" />
+    <option name="LAST_COMMIT_MESSAGE" value="first step" />
   </component>
 </project>
