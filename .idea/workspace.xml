@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521acce2-11d5-4989-9b01-68a6ccc190b3" name="Changes" comment="first step">
-      <change afterPath="$PROJECT_DIR$/2. day/input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. day/string.py" afterDir="false" />
+    <list default="true" id="521acce2-11d5-4989-9b01-68a6ccc190b3" name="Changes" comment="2.day">
+      <change afterPath="$PROJECT_DIR$/2. day/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. day/1 day.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. day/1 day.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lengyelneolahmelindakatica"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lengyelneolahmelindakatica&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/lengyelneolahmelindakatica/python_refresh_2026.git&quot;,
@@ -50,7 +48,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1 day.executor": "Run",
     "Python.input.executor": "Run",
+    "Python.lists.executor": "Run",
     "Python.string.executor": "Run",
+    "Python.task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -79,11 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1771412956511</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2.day">
+      <option name="closed" value="true" />
+      <created>1771507651586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771507651586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first step" />
-    <option name="LAST_COMMIT_MESSAGE" value="first step" />
+    <MESSAGE value="2.day" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.day" />
   </component>
 </project>
